@@ -74,6 +74,12 @@ public class LL {
         size++;
 
     }
+    // insert using recursion
+    // we can use this when we are not given the size and the tail ie. only head is known
+    public void insertRec(int data,int index)
+    {
+        
+    }
 
     public int deleteFirst()
     {
